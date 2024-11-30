@@ -1,7 +1,9 @@
-Hey there!
-I am Aarav
-I am a Front-End Web Designer
-I am currently learning
+# Magma Clone
+
+## Hey there!
+## I am Aarav
+## I am a Front-End Web Designer
+## I am currently learning
 - HTML
 -  CSS
 -  javaScript
