@@ -1,14 +1,24 @@
 # Instagram Login Clone
 
-## Table of Contents
+## Hey there!
+## I am Aarav!
 
-1. [Overview](#overview)
-    - [Demonstration](#demonstration)
-2. [What have I learned?](#what-have-i-learned)
+## I am a Front-End Web Designer
+## I am currently learning
+- HTML
+-  CSS
+-  javaScript
 
-## Overview
+  
+Here are Few images of the project
 
-This is my new project that i have worked hard to build. A Responsive Instagram Login Clone built using only 
-[HTML](https://html.spec.whatwg.org/),
-[CSS](https://www.w3.org/Style/CSS/specs.en.html)
+
+
+
+
+![IGC_1](https://github.com/user-attachments/assets/78b92bfb-a365-489f-b3b1-b4d0df3a6e8d)
+![IGC_2](https://github.com/user-attachments/assets/6fa29c81-9195-452e-8f72-60d201f05341)
+
+
+
 
